@@ -1,0 +1,91 @@
+
+    *{ max-width:100%; 
+    }
+
+.explore{
+    background-color:#F5F5F5;
+}
+
+  .home{
+   color:orangered;
+   text-decoration: underline;
+   text-decoration-color:coral;
+  }
+ 
+.arrow{
+    
+    color:white;
+    border-radius: 50px;
+}
+
+.card5{
+    border-radius:20px;
+    
+}
+.card5:hover{
+    background-color: #0066ff;
+    box-shadow: 0 0 25px #0066ff;
+}
+
+.circleicon {
+    background-color:lightgray;
+    border-radius:40px;
+    }
+
+    .crd3{
+    
+        border-radius:5%;   
+        
+    }
+    .crd3:hover{
+        background-color: #0066ff;
+        box-shadow: 0 0 25px #0066ff;
+    }
+    
+.texthover{
+    color:black;
+}
+.texthover:hover{
+color:white;
+}
+
+.follow{
+    background-color: #F0F0F0; 
+
+}
+
+.good{
+    background-color: white;
+}
+.arrowsmall{
+    background:#0066ff;
+    border-radius:50%;
+}
+.footer{
+    background-color: white;
+}
+.footerarrow{
+    background-color: #0066ff;  
+
+}
+
+.leftarrow{
+    background-color: white;
+    border-radius:30px;
+}
+.rightarrow{
+    background-color:#0066ff;
+    border-radius:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
