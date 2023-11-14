@@ -1,0 +1,44 @@
+*{ max-width:100%; 
+}
+
+.bgblue{
+background-color:#001a33;
+}
+.blue{
+   color:#001a33;
+}
+.explore{
+    background-color:	 #e6e6ff;
+}
+.cards{
+    border-radius: 5%;
+    background-color:white;
+}
+.cards:hover{
+    background-color: #001a33;
+}
+.texthover{
+    color:black;
+}
+.texthover:hover{
+color:white;
+}
+
+.card3{
+    border-radius: 5%;
+}
+  .check{
+    background-color:	 #e6e6ff;
+  }
+  
+
+.font
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-toggler{
+    background-color: white;
+    
+}
+
